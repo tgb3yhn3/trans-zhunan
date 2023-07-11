@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "zhubei-trans"
-  }
+    "default": "trans-zhunan",
+    "zhunan": "trans-zhunan"
+  },
+  "targets": {},
+  "etags": {}
 }
