@@ -94,8 +94,7 @@ div a,
   border-radius: 0%;
 }
 .card {
-  /* border-color: #9bb381; */
-  /* border-color: #dc3545; */
+
   border-width: 0px;
   box-shadow: 10px 15px 10px -10px;
 }
